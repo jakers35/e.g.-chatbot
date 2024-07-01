@@ -1,0 +1,5 @@
+mkdir chatbot
+cd chatbot
+npm init -y
+npm install express your-chatgpt4-library
+
